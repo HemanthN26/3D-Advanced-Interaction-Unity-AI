@@ -1,5 +1,8 @@
 # Unity XR AI Chatbot System
 
+<img width="463" height="358" alt="image" src="https://github.com/user-attachments/assets/d7c0fad1-0c2f-4135-8ed3-101e07f52b7b" />
+
+
 This is an ongoing research prototype focused on building interactive XR environments in Unity for human AI interaction.
 
 ## Objective
