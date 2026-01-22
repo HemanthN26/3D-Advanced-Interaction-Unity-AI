@@ -26,7 +26,6 @@ The goal of this project is to explore how conversational AI systems can be inte
 - Improving avatar interaction and animation
 - Refining memory retrieval and response grounding
 - Integrating conversational AI into world space UI
-- Preparing the system for user study and evaluation
 
 ## Research Relevance
 Relevant for research in:
