@@ -57,7 +57,7 @@ The objective is to investigate how conversational AI can be embedded into 3D vi
 
 **AI & Backend:**
 
-- LLM via Groq API (LLaMA / Mistral)
+- LLM via Groq API (LLaMA)
 - Whisper (Speech-to-Text)
 - Text-to-Speech (TTS)
 
